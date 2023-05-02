@@ -1,0 +1,15 @@
+D:\GeekBrains\Itog_KR_Dimukasheva\Zadanie\bin\Debug\net7.0\Zadanie.exe
+D:\GeekBrains\Itog_KR_Dimukasheva\Zadanie\bin\Debug\net7.0\Zadanie.deps.json
+D:\GeekBrains\Itog_KR_Dimukasheva\Zadanie\bin\Debug\net7.0\Zadanie.runtimeconfig.json
+D:\GeekBrains\Itog_KR_Dimukasheva\Zadanie\bin\Debug\net7.0\Zadanie.dll
+D:\GeekBrains\Itog_KR_Dimukasheva\Zadanie\bin\Debug\net7.0\Zadanie.pdb
+D:\GeekBrains\Itog_KR_Dimukasheva\Zadanie\obj\Debug\net7.0\Zadanie.csproj.AssemblyReference.cache
+D:\GeekBrains\Itog_KR_Dimukasheva\Zadanie\obj\Debug\net7.0\Zadanie.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Itog_KR_Dimukasheva\Zadanie\obj\Debug\net7.0\Zadanie.AssemblyInfoInputs.cache
+D:\GeekBrains\Itog_KR_Dimukasheva\Zadanie\obj\Debug\net7.0\Zadanie.AssemblyInfo.cs
+D:\GeekBrains\Itog_KR_Dimukasheva\Zadanie\obj\Debug\net7.0\Zadanie.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Itog_KR_Dimukasheva\Zadanie\obj\Debug\net7.0\Zadanie.dll
+D:\GeekBrains\Itog_KR_Dimukasheva\Zadanie\obj\Debug\net7.0\refint\Zadanie.dll
+D:\GeekBrains\Itog_KR_Dimukasheva\Zadanie\obj\Debug\net7.0\Zadanie.pdb
+D:\GeekBrains\Itog_KR_Dimukasheva\Zadanie\obj\Debug\net7.0\Zadanie.genruntimeconfig.cache
+D:\GeekBrains\Itog_KR_Dimukasheva\Zadanie\obj\Debug\net7.0\ref\Zadanie.dll
